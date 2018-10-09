@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description texte="Algorithme permettant de vérifier si un mot est un palindrome." courant="AFFICHER &quot;un palindrome.&quot;"/>
+    <description texte="Algorithme permettant de vérifier si un mot est un palindrome." courant="DEBUT_SI"/>
     <extension extnom="inactif"/>
     <fonction fctetat="inactif" fctcode=""/>
     <F2 F2lignes="" F2etat="inactif" F2defaut="" F2para=""/>
